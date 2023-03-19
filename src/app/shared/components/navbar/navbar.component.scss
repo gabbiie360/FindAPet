@@ -1,0 +1,19 @@
+.nav-container{
+  display: flex;
+}
+
+.mobile-menu{
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+  list-style: none;
+  width: 100%;
+}
+
+.mobile-menu-item{
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
